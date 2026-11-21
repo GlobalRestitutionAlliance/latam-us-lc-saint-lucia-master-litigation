@@ -1,10 +1,61 @@
-# Saint Lucia Restitution Crosswalk Dashboard
+# Saint Lucia Master Restitution Crosswalk Dashboard
 
-**Country Key:** US_LC_SAINT_LUCIA
-**ISO Code:** LC/LCA
-**Historical Arc:** 1979-2026
-**Restitution Pool:** $5.00B
-**Instruments:** 9
+- **ISO:** LC
+- **Planning Pool:** $2,000,000,000 USD (subject to evidentiary validation)
+- **Instruments:** 25
 
-## Primary Judgment
-1979 Independence, British Colony
+## Evidentiary Anchors (High-Level, Public Record)
+
+- Colonial extraction legacy
+- Climate vulnerability and disaster recovery costs
+- Tourism dependency and external shocks
+
+## Instrument Matrix
+
+| ID | Anchor | Status | Evidence |
+|---|---|---|---|
+| LC-001 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-002 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-003 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-004 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-005 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-006 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-007 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-008 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-009 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-010 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-011 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-012 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-013 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-014 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-015 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-016 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-017 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-018 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-019 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-020 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-021 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-022 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-023 | Climate vulnerability and disaster recovery costs | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-024 | Tourism dependency and external shocks | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| LC-025 | Colonial extraction legacy | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+
+## Guardrail
+No fabricated citations, docket numbers, or archive IDs. All entries require primary-source verification before filing use.
+
+## Verified Source Citations (PENDING_LEGAL_REVIEW)
+
+Rule: No citation marked VERIFIED without local hashed source artifact and counsel sign-off.
+
+- LC-CIT-0001: UN Digital Library - Search | https://digitallibrary.un.org/search | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_01_UN_Digital_Library_-_Search.html` | sha256=`e3b0c44298fc1c14...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0002: Countries | OHCHR | https://www.ohchr.org/en/countries | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_02_UN_OHCHR_-_Country_Pages_browser.html` | sha256=`49662d4dbf47bb6d...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0003: UN Treaty Body Database | https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_03_UN_Treaty_Body_Database.html` | sha256=`d5e960c2ee0173f1...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0004: Universal Periodic Review | OHCHR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_04_UN_Human_Rights_Council_-_Universal_Periodic_Review_browser.html` | sha256=`cfdbc1bead5f916a...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0005: IACHR :: Country Reports | https://www.oas.org/en/iachr/reports/country.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_05_IACHR_-_Country_Reports_browser.html` | sha256=`cf40fd0f747ec40c...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0006: Annual Reports | https://www.oas.org/en/iachr/reports/ia.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_06_IACHR_-_Annual_Reports_browser.html` | sha256=`36ce54303131c67a...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0007: US State Department - Country Reports on Human Rights Practices | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_07_US_State_Department_-_Country_Reports_on_Human_Rights_Practices.html` | sha256=`1247df151df829bd...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0008: US State Department - Office of the Historian (FRUS) | https://history.state.gov/historicaldocuments | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_08_US_State_Department_-_Office_of_the_Historian_FRUS.html` | sha256=`c948fdff783f2e5f...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0009: NARA - Foreign Affairs Research | https://www.archives.gov/research/foreign-policy | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_09_NARA_-_Foreign_Affairs_Research.html` | sha256=`c4cda55cb948dfd6...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0010: CIA.gov 404 | https://www.cia.gov/reading-room/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_10_CIA_FOIA_Electronic_Reading_Room_browser.html` | sha256=`237c2cfe65f25745...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0011: Library of Congress - Research Guides / Country Studies | https://guides.loc.gov/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_11_Library_of_Congress_-_Research_Guides_Country_Studies.html` | sha256=`1553cdee1c56bc22...` | status=PENDING_LEGAL_REVIEW
+- LC-CIT-0012: Countries | Data | https://data.worldbank.org/country | local=`03_Evidentiary_Exhibits/Immutable_Ledger/LC_12_World_Bank_-_Country_Data_browser.html` | sha256=`97e51424fe833707...` | status=PENDING_LEGAL_REVIEW

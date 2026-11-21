@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+LC-JUD-01,Judicial Cooperation and Extradition,Colonial extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+LC-JUD-02,Judicial Cooperation and Extradition,Climate vulnerability and disaster recovery costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+LC-JUD-03,Judicial Cooperation and Extradition,Tourism dependency and external shocks,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+LC-JUD-04,Judicial Cooperation and Extradition,Colonial extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+LC-JUD-05,Judicial Cooperation and Extradition,Climate vulnerability and disaster recovery costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
